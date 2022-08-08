@@ -1,0 +1,16 @@
+.date{
+    width: 90%!important;
+}
+/* .mydate-picker{
+    width: 200px;
+} */
+
+.customDatePickerWidth, 
+.customDatePickerWidth > div.react-datepicker-wrapper, 
+.customDatePickerWidth > div > div.react-datepicker__input-container
+.customDatePickerWidth > div > div.react-datepicker__input-container input {
+   width: 400px;
+}
+.datepicker{
+    width: 200px;
+}
